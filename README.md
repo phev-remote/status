@@ -1,1 +1,1 @@
-Starter ES6 Babel project
+Starter ES6 Babel project.
